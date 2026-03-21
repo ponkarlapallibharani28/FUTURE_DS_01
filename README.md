@@ -21,3 +21,4 @@ This repository contains my internship tasks completed under Future Interns.
 
 ## 📌 Conclusion
 These projects demonstrate data analysis skills including data cleaning, visualization, and generating business insights.
+Screenshots of analysis are included for better visualization of insights.

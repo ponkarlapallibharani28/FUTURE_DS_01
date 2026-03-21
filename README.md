@@ -1,19 +1,23 @@
 # FUTURE_DS_01
-Sales Performance Analysis using Python. This project analyzes sales data to identify trends, top products, regional performance, and business insights.
 
-## Objective
-The objective of this project is to analyze sales data to identify trends, top-performing products, and regional performance.
+This repository contains my internship tasks completed under Future Interns.
 
-## Tools Used
+## 📊 Task 1: Sales Performance Analysis
+- Analyzed sales data to identify trends and top-performing products
+- Visualized regional performance
+- Provided key business insights
+
+## 📉 Task 2: Customer Retention & Churn Analysis
+- Analyzed customer churn patterns
+- Identified factors affecting customer retention
+- Created visualizations for churn distribution and trends
+- Provided recommendations to reduce churn
+
+## 🛠️ Tools Used
 - Python
 - Pandas
 - Matplotlib
+- Google Colab
 
-## Key Insights
-- Sales fluctuate over time with noticeable peaks and drops.
-- A small number of products contribute to a large portion of total revenue.
-- The West region generates the highest sales among all regions.
-- The Technology category contributes the most to overall revenue.
-
-## Conclusion
-The business should focus on high-performing products and the Technology category to maximize revenue. Improving performance in low-performing regions can further increase overall sales.
+## 📌 Conclusion
+These projects demonstrate data analysis skills including data cleaning, visualization, and generating business insights.
